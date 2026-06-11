@@ -1,10 +1,15 @@
 ---
+
 tags:
-  - lore
-  - dragonkind
+ - lore
+ - dragonkind
 status: Canon
-type: Foundational Lore
+type: hub
+pillar: dragonkind
+knowledge: common
+
 ---
+
 # Dragonkind
 
 ## Quick Navigation
@@ -16,8 +21,7 @@ type: Foundational Lore
 - [[The Conclave of Scales]]
 - [[Wyrmreach]]
 - [[Crucible of Creation]]
-- [[Dragonkind/Traditions/The Echoes of Scales]]
-- [[The Cataclysm]]
+- [[The Echoes of Scales]]
 - [[The War of Dominion]]
 
 ### The Original Thirteen Broods
@@ -65,7 +69,6 @@ For this reason, Dragons do not consider themselves children of Heaven. They con
 This distinction has shaped Dragonkind from the first age of the world to the present day.
 
 ---
-
 ## The First Thirteen Regents
 
 At the dawn of creation, thirteen great dragons emerged alongside reality itself.
@@ -82,22 +85,7 @@ While many within the Heavens speak of the First Twelve, Dragons have never forg
 
 Among Dragonkind, the disappearance of the Thirteenth Primordial remains one of the oldest unresolved mysteries in existence.
 
-The First Regents were also entrusted with truths concerning the nature of creation itself. These truths would later be preserved through the Echoes of Scale and passed only to those whose responsibilities required such knowledge.
-
 ---
-
-## The Reality Anchors
-
-Among the oldest and most carefully guarded teachings of Dragonkind is the belief that the Original Thirteen Regents served a greater purpose than merely founding the great Broods.
-
-Many ancient traditions suggest that the First Regents were entrusted with responsibilities tied directly to the continued stability of creation itself.
-
-The full truth surrounding these teachings is restricted knowledge, preserved through the Echoes of Scale and revealed only to those whose duties require such understanding.
-
-For more information, see [[The Reality Anchors]].
-
----
-
 ## The Broods
 
 Dragon society is organized through ancient bloodlines known as Broods.
@@ -117,7 +105,6 @@ While lineage is respected among Dragons, it does not determine one's destiny.
 A Dragon's worth is measured by who they become, not solely by where they came from.
 
 ---
-
 ## The Regencies
 
 The Regencies are among the most sacred institutions within Dragonkind.
@@ -131,7 +118,6 @@ The bearers of these mantles stand among the most respected figures in Dragon so
 For more information, see [[The Thirteen Regencies]].
 
 ---
-
 ## The Echoes of Scale
 
 The Echoes of Scale are the living memory of Dragonkind.
@@ -142,10 +128,9 @@ To Dragons, death is not viewed as an ending.
 
 It is a continuation.
 
-For more information, see the [[The Echoes of Scales]].
+For more information, see [[The Echoes of Scales]].
 
 ---
-
 ## The Broodlands
 
 The ancestral homeland of Dragonkind is known as the Broodlands.
@@ -159,7 +144,6 @@ The region is considered sacred by every Brood.
 Even Regents tread carefully within its borders.
 
 ---
-
 ## The Cradle of Scales
 
 At the heart of the Broodlands lies the Cradle of Scales, the most sacred site in all of Dragonkind.
@@ -171,7 +155,6 @@ To Dragons, the Cradle represents continuity, renewal, and the enduring future o
 For more information, see [[The Cradle of Scales]].
 
 ---
-
 ## The Conclave of Scales
 
 The Conclave of Scales, often called the Scalebound, serves as the highest institution within Dragon society.
@@ -185,29 +168,6 @@ When the Scalebound speaks, it does so not as a ruler of Dragons, but as the col
 For more information, see [[The Conclave of Scales]].
 
 ---
-
-## The Cataclysm
-
-Among the oldest fears preserved within Dragonkind is the possibility known as The Cataclysm.
-
-The Cataclysm refers to the theoretical extinction of one of the Original Thirteen Broods and the collapse of the Reality Anchor it maintains.
-
-Most Dragons know only fragments of this belief.
-
-The full truth remains restricted knowledge.
-
-Those entrusted with understanding the Reality Anchors recognize The Cataclysm as one of the greatest existential threats creation could face.
-
-The extinction of a Brood would not simply diminish Dragonkind.
-
-It would destabilize one of the fundamental systems that allows reality to function.
-
-For this reason, the continued existence of all Thirteen Broods is considered essential to the continued stability of creation itself.
-
-For more information, see [[The Cataclysm]].
-
----
-
 ## The Crucible of Creation
 
 The guiding philosophy of Dragonkind is known as the Crucible of Creation.
@@ -276,7 +236,6 @@ To Heaven, Dragonkind is a necessary counterpart.
 To Dragonkind, Heaven is a trusted ally that occasionally forgets its place.
 
 ---
-
 ## Related Links
 
 ### Dragonkind
@@ -287,9 +246,7 @@ To Dragonkind, Heaven is a trusted ally that occasionally forgets its place.
     
 - [[The Cradle of Scales]]
     
-- [[Dragonkind/Traditions/The Echoes of Scales]]
-    
-- [[The Cataclysm]]
+- [[The Echoes of Scales]]
     
 - [[Wyrmreach]]
     
