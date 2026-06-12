@@ -1,3 +1,17 @@
+---
+tags:
+  - lore
+  - dragonkind
+  - secret
+
+status: Canon
+
+type: secret_lore
+pillar: dragonkind
+
+knowledge: secret
+---
+
 # The Reality Anchors
 
 ## Overview
@@ -181,23 +195,135 @@ Starbounds embody exploration, expansion, discovery, and the drive that pushes c
 
 ## The Balance of Creation
 
-No Anchor exists in isolation.
+No Reality Anchor exists in isolation.
 
-Each relies upon the others.
+Though each Anchor embodies a distinct aspect of creation, none were intended to function alone.
 
-Foundation without Flow becomes stagnant.
+The Anchors form an interconnected system through which reality maintains stability, adaptability, and growth.
 
-Flow without Structure becomes chaos.
+Many Dragon philosophers teach that reality is not maintained by the strength of any individual Anchor, but by the harmony that exists between them.
+
+A weakening Anchor threatens the balance of creation.
+
+Yet Dragon scholars teach that excessive dominance by any one Anchor can be equally dangerous.
+
+Foundation without Transformation becomes stagnation.
 
 Transformation without Preservation becomes destruction.
 
-Preservation without Transformation becomes stagnation.
+Structure without Flow becomes rigidity.
 
-The Anchors form an interconnected system through which reality maintains equilibrium.
+Flow without Structure becomes chaos.
 
-Because of this, Dragonkind has long believed that no Brood is more important than another.
+For this reason, Dragonkind views the Anchors not as separate forces, but as complementary principles that sustain one another.
 
-Each serves a purpose that cannot be fully replaced.
+### The Great Complementaries
+
+Over countless generations, Dragon philosophers identified several balancing relationships among the Anchors.
+
+These pairings are known collectively as the Great Complementaries.
+
+#### Foundation and Transformation
+
+**Stoneheart ↔ Ashwing**
+
+Foundation preserves what endures.
+
+Transformation allows what exists to become something new.
+
+Without Foundation, change becomes chaos.
+
+Without Transformation, stability becomes stagnation.
+
+Together they allow creation to grow without losing itself.
+
+#### Preservation and Adaptation
+
+**Winterborn ↔ Wildroot**
+
+Preservation safeguards what has survived.
+
+Adaptation teaches survival through change.
+
+Without Preservation, nothing lasts.
+
+Without Adaptation, nothing evolves.
+
+Together they ensure that life can endure while remaining capable of growth.
+
+#### Structure and Flow
+
+**Ironcrest ↔ Tideborn**
+
+Structure creates order.
+
+Flow creates movement.
+
+Without Structure, systems collapse into disorder.
+
+Without Flow, systems become rigid and lifeless.
+
+Together they create stability without stagnation.
+
+#### Radiance and Shadow
+
+**Dawnfire ↔ Deepscale**
+
+Radiance reveals.
+
+Shadow conceals.
+
+Without Radiance, knowledge cannot spread.
+
+Without Shadow, nothing remains protected.
+
+Together they establish the boundaries between revelation and mystery.
+
+#### Cycles and Horizons
+
+**Moonscale ↔ Starbound**
+
+Cycles preserve recurring patterns.
+
+Horizons pursue possibility beyond the known.
+
+Without Cycles, nothing is remembered.
+
+Without Horizons, nothing new is discovered.
+
+Together they allow creation to progress without losing its foundations.
+
+#### Gravity and Atmosphere
+
+**Skyfang ↔ Stormclaw**
+
+Gravity provides orientation and balance.
+
+Atmosphere provides motion and momentum.
+
+Without Gravity, movement lacks direction.
+
+Without Atmosphere, direction lacks purpose.
+
+Together they create journey, exploration, and meaningful change.
+
+### The Anchor of Continuity
+
+Unlike the other Anchors, Emberveil possesses no direct counterpart.
+
+The Anchor of Continuity exists not to oppose another force, but to connect all of them.
+
+Memory allows Foundation to remember.
+
+Memory allows Transformation to learn.
+
+Memory allows Preservation to endure.
+
+Memory allows Horizons to build upon what came before.
+
+For this reason, many Dragon philosophers describe Continuity as the thread that binds the Anchors together.
+
+Where the other Anchors define reality, Continuity ensures reality remembers itself.
 
 ---
 
@@ -230,6 +356,32 @@ New Regents may spend decades or centuries gradually learning the full responsib
 This secrecy exists not to create hierarchy, but to ensure that wisdom accompanies knowledge.
 
 Among Dragonkind, stewardship is considered a greater responsibility than power.
+
+Among those entrusted with knowledge of the Anchors, a traditional hierarchy of responsibility is often taught:
+
+Creation
+
+↓
+
+Reality Anchors
+
+↓
+
+Dragonkind
+
+↓
+
+Brood
+
+↓
+
+Self
+
+The reasoning is simple.
+
+Without creation, nothing else can endure.
+
+For this reason, those entrusted with stewardship of the Anchors are expected to place the preservation of reality above all lesser obligations.
 
 ---
 
@@ -277,7 +429,7 @@ To ensure that reality remains stable enough for creation to continue becoming.
 
 ### Dragonkind
 
-- [[Dragonkind/Dragonkind]]
+- [[Dragonkind]]
     
 - [[The Broods]]
     
@@ -285,7 +437,7 @@ To ensure that reality remains stable enough for creation to continue becoming.
     
 - [[The Conclave of Scales]]
     
-- [[Dragonkind/Traditions/The Echoes of Scales]]
+- [[The Echoes of Scales]]
     
 
 ### Cosmology

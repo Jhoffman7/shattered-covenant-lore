@@ -3,8 +3,13 @@ tags:
   - location
   - dragonkind
   - lore
+
 status: Canon
-type: Sacred Site
+
+type: location
+pillar: dragonkind
+
+knowledge: educated
 ---
 
 # The Cradle of Scales
@@ -50,31 +55,6 @@ Others believe the Cradle remains connected to the forces that first gave rise t
 No Dragon knows the full truth.
 
 Most believe the mystery itself is part of the Cradle's nature.
-
----
-## The First Emergence
-
-Among the oldest traditions preserved within Dragonkind is the belief that the First Thirteen Regents emerged from the Cradle itself.
-
-Not as hatchlings.
-
-Not as ordinary Dragons.
-
-But as fully formed manifestations of creation's response to the newborn reality.
-
-According to these traditions, when the Primordials completed the act of creation, reality answered in kind.
-
-The Cradle formed.
-
-The First Thirteen emerged.
-
-And through them, the Reality Anchors became established within the world.
-
-Whether this account is literal history or symbolic truth remains a matter of debate.
-
-Yet among Dragons, few doubt the connection between the Cradle and the origins of the Original Thirteen Broods.
-
-For this reason, many consider the Cradle to be the birthplace not only of Dragonkind, but of the Reality Anchors themselves.
 
 ---
 
@@ -152,30 +132,11 @@ There it remains until the Conclave of Scales gathers to seek a worthy heir.
 
 During this period, the mantle is said to rest among the oldest chambers of the Cradle.
 
-Many Dragons believe the Echoes of previous Regents commune there, helping guide the mantle toward its next bearer.
+Many Dragons believe the Cradle plays a role in the transition between one Regent and the next.
 
 The exact process remains known only to those directly involved in Regency succession.
 
 Even among Dragons, it is regarded with profound reverence.
-
----
-## The Anchors and the Cradle
-
-Among the deepest secrets preserved by Dragonkind is the belief that the Cradle maintains a unique relationship with the Reality Anchors.
-
-The exact nature of this connection remains unknown.
-
-Some believe the Anchors draw strength from the Cradle.
-
-Others believe the Cradle merely reflects their condition.
-
-Several ancient accounts suggest that disturbances within the Cradle have historically coincided with periods of instability among the Broods.
-
-Because of this possibility, the Conclave closely monitors unusual changes within the Cradle.
-
-Few Dragons are permitted to study such matters directly.
-
-Fewer still are trusted with the conclusions.
 
 ---
 

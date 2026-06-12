@@ -1,3 +1,17 @@
+---
+tags:
+  - lore
+  - dragonkind
+  - secret
+
+status: Canon
+
+type: secret_lore
+pillar: dragonkind
+
+knowledge: secret
+---
+
 # The Cataclysm
 
 ## Overview
@@ -65,7 +79,24 @@ Because of this, Dragonkind monitors the health of the Broods with extraordinary
 The loss of even a single lineage may be treated as a matter of grave concern.
 
 ---
+## Near-Cataclysms
 
+Though Dragonkind fears the possibility of a true Cataclysm, no confirmed Cataclysm has ever occurred.
+
+Instead, history records several events known as Near-Cataclysms.
+
+A Near-Cataclysm occurs when a Reality Anchor suffers significant weakening but recovers before complete collapse can occur.
+
+These events often produce widespread anomalies, instability, and disruption throughout the systems maintained by the affected Anchor.
+
+To Dragon scholars, Near-Cataclysms serve as warnings.
+
+They demonstrate that the Anchors are neither invulnerable nor permanent.
+
+Many of Dragonkind's oldest traditions concerning stewardship, preservation, and the protection of the Elder Broods were shaped by lessons learned during previous Near-Cataclysms.
+
+
+---
 ## Signs of Instability
 
 The symptoms of an Anchor's decline vary depending upon the Brood involved.

@@ -2,15 +2,19 @@
 tags:
   - dragonkind
   - lore
-status: Canon
-type: Foundational Lore
----
 
+status: Canon
+
+type: hub
+pillar: dragonkind
+
+knowledge: common
+---
 # The Broods
 
 ## Overview
 
-The Broods are the great lineages of [[Dragonkind/Dragonkind]].
+The Broods are the great lineages of [[Dragonkind/Dragonkind|Dragonkind]].
 
 Ancient beyond mortal comprehension, each Brood traces its ancestry back through countless generations to the earliest ages of creation.
 
@@ -32,35 +36,15 @@ Though each Brood possesses its own traditions and ancestral territories, all ul
 
 According to Dragon tradition, the first Broods emerged during the earliest days of creation.
 
-These ancient lineages became known as the Original Thirteen and are regarded as the foundational bloodlines of Dragonkind.
+These ancient lineages became known as the The Elder Broods and are regarded as the foundational bloodlines of Dragonkind.
 
 Over countless ages, additional Broods emerged through branching lineages, unique ancestral developments, and the passage of time.
 
 Today, Dragonkind recognizes approximately twenty to twenty-five active Broods.
 
-Though younger Broods command respect, the Original Thirteen remain among the most influential and revered lineages within the [[Wyrmreach]].
+Though younger Broods command respect, the The Elder Broods remain among the most influential and revered lineages within the [[Wyrmreach]].
 
 ---
-## The Original Anchors
-
-While Dragonkind recognizes many Broods in the modern age, only thirteen are considered Original Broods.
-
-These lineages trace their ancestry directly to the First Thirteen who emerged during the earliest moments of creation.
-
-According to the oldest traditions preserved by Dragonkind, the Original Thirteen serve as the living Reality Anchors through which creation stabilizes many of its foundational physical systems.
-
-For this reason, the Original Thirteen occupy a unique place within Dragon society.
-
-Their significance extends beyond ancestry, age, or influence.
-
-They are regarded as essential components of reality itself.
-
-Though younger Broods are respected and valued, no additional Reality Anchors have ever emerged.
-
-To this day, the Original Thirteen remain singular within creation.
-
----
-
 ## Bloodline and Identity
 
 A Brood is first and foremost a bloodline.
@@ -129,23 +113,15 @@ Every First Scale also holds a permanent seat within the [[The Conclave of Scale
 
 ---
 
-## The Original Thirteen
+## The Elder Broods
 
-The oldest and most revered lineages are collectively known as the [[The Original Thirteen Broods|Original Thirteen]].
+The oldest and most revered lineages are collectively known as the [[The Elder Broods]].
 
 These Broods trace their histories directly to the earliest generations of Dragonkind and have shaped draconic civilization since the dawn of creation.
 
 While not inherently superior to younger lineages, their age and influence grant them considerable respect throughout Dragon society.
 
-The histories of the Original Thirteen are deeply intertwined with the development of the [[Wyrmreach]], the [[The Conclave of Scales]], and the traditions that define Dragonkind today.
-
-Unlike younger lineages, the Original Thirteen are believed to possess a direct connection to the earliest moments of creation itself.
-
-Each serves as a Reality Anchor, stabilizing a fundamental physical system necessary for reality's continued existence.
-
-Because of this responsibility, the health of the Original Thirteen has long been monitored by the Conclave of Scales and safeguarded through traditions older than recorded history.
-
-The weakening of an Original Brood is considered a matter of concern not only for Dragonkind, but for creation itself.
+The histories of the The Elder Broods are deeply intertwined with the development of the [[Wyrmreach]], the [[The Conclave of Scales]], and the traditions that define Dragonkind today.
 
 ---
 
@@ -174,8 +150,6 @@ Most Dragons recognize a traditional hierarchy of loyalty:
 Creation
 ↓
 Dragonkind
-↓
-Reality Anchor
 ↓
 Brood
 ↓
@@ -213,7 +187,7 @@ For many Dragons, the story of their Brood is inseparable from the story of Drag
 
 ### Dragonkind
 
-- [[Dragonkind/Dragonkind]]
+- [[Dragonkind/Dragonkind|Dragonkind]]
 
 ### Foundational Concepts
 
@@ -230,7 +204,7 @@ For many Dragons, the story of their Brood is inseparable from the story of Drag
 
 ### Spiritual Traditions
 
-- [[Dragonkind/Traditions/The Echoes of Scales]]
+- [[The Echoes of Scales]]
 
 ### Locations
 
@@ -238,7 +212,7 @@ For many Dragons, the story of their Brood is inseparable from the story of Drag
 
 ### Related Topics
 
-- [[The Original Thirteen Broods]]
+- [[The Elder Broods]]
 - [[Dragonborn]]
 
 ### History

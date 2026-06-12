@@ -135,7 +135,7 @@ It is transformation.
 
 Candidates are expected to emerge changed by the experience.
 
-Those who complete the Rite are judged by the Ashwing elders and the [[Dragonkind/Traditions/The Echoes of Scales]].
+Those who complete the Rite are judged by the Ashwing elders and the [[The Echoes of Scales]].
 
 The Dragon deemed most worthy becomes the next [[First Scale]].
 
@@ -231,7 +231,7 @@ Magmablood:
 
 - [[Dragonkind/Dragonkind]]
 - [[The Broods]]
-- [[The Original Thirteen Broods]]
+- [[The Elder Broods]]
 
 ### Locations
 

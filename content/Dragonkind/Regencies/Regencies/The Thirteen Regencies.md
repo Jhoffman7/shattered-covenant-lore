@@ -1,20 +1,26 @@
 ---
 tags:
   - lore
-  - Regency
+  - regency
   - dragonkind
+
 status: Canon
-type: Foundational Lore
+
+type: hub
+pillar: dragonkind
+
+knowledge: common
 ---
+
 # The Thirteen Regencies
 
 ## Overview
 
 The Thirteen Regencies are among the oldest institutions in existence.
 
-Where the Primordials embody the Cosmic Forces that define reality, and the Original Thirteen Broods serve as the Reality Anchors that stabilize creation, the Regencies exist as sacred mantles entrusted with their stewardship.
+Where the Primordials embody the Cosmic Forces that define reality, the Regencies exist as sacred mantles entrusted with the stewardship of Dragonkind's oldest responsibilities.
 
-Each Regency represents a responsibility carried by Dragonkind since the dawn of creation.
+Each Regency represents a duty carried by Dragonkind since the dawn of creation.
 
 They are not positions of political authority, nor are they simple titles.
 
@@ -30,7 +36,7 @@ In this way, individual Regents come and go, but the Regencies themselves endure
 
 To Dragonkind, the Regencies are not merely offices.
 
-They are sacred mantles entrusted with the stewardship of reality's foundational systems.
+They are sacred mantles entrusted with responsibilities that have guided Dragonkind since the dawn of creation.
 
 ---
 
@@ -38,7 +44,7 @@ They are sacred mantles entrusted with the stewardship of reality's foundational
 
 Every Regency carries within it the accumulated wisdom of those who held the mantle before.
 
-The [[Dragonkind/Traditions/The Echoes of Scales]] of former Regents become intertwined with the Regency itself, creating an unbroken lineage of memory stretching back to the First Regents.
+The [[The Echoes of Scales]] of former Regents become intertwined with the Regency itself, creating an unbroken lineage of memory stretching back to the First Regents.
 
 A newly ascended Regent does not lose their individuality.
 
@@ -56,40 +62,39 @@ Because of this, every Regency possesses a continuity of purpose that transcends
 
 ## The Thirteen Regencies
 
-The Regencies are sacred mantles entrusted with safeguarding the Reality Anchors of creation.
+The Regencies are sacred mantles entrusted with responsibilities that have guided Dragonkind since the dawn of creation.
 
-Each Regency reflects a responsibility inherited from the First Regents and carried forward through every generation of Dragonkind.
+Each Regency reflects a fundamental principle preserved through generations of Regents.
 
-Though the Broods themselves serve as the living Reality Anchors, the Regencies exist to ensure those responsibilities are remembered, preserved, and upheld.
+Though individual Regents rise and fall, the responsibilities embodied by the Regencies remain constant.
 
 ### The Regencies
 
 - [[Foundation]]
-    
+
 - [[Hearth]]
-    
+
 - [[Harvest]]
-    
+
 - [[Storms]]
-    
+
 - [[Depths]]
-    
+
 - [[Journey]]
-    
+
 - [[Dawn]]
-    
+
 - [[Growth]]
-    
+
 - [[Endurance]]
-    
+
 - [[Forgefire]]
-    
+
 - [[Crossroads]]
-    
+
 - [[Horizons]]
-    
+
 - [[Wilds]]
-    
 
 ---
 
@@ -98,10 +103,6 @@ Though the Broods themselves serve as the living Reality Anchors, the Regencies 
 At the dawn of creation, each Regency was first carried by one of the First Thirteen Regents.
 
 These primordial Dragons became the original stewards of their respective mantles and laid the foundations of Dragon civilization.
-
-The First Regents were also entrusted with knowledge concerning the true nature of the Reality Anchors and the role Dragonkind serves within creation.
-
-This responsibility would later become one of the most carefully guarded traditions preserved through the Echoes of Scale.
 
 Though the First Regents have long since passed into the Echoes of Scale, their influence remains present within every Regency.
 
@@ -159,64 +160,64 @@ In this duty, the Regencies remain among the most sacred and enduring institutio
 
 ---
 
+## Common Saying
+
+> "Regents are temporary. The Regencies endure."
+
+---
+
 ## Related Links
 
 ### Dragonkind
 
-- [[Dragonkind/Dragonkind]]
-    
+- [[Dragonkind]]
 
 ### Foundational Concepts
 
 - [[Crucible of Creation]]
-    
 
 ### Institutions
 
 - [[The Conclave of Scales]]
-    
 
 ### Sacred Sites
 
 - [[The Cradle of Scales]]
-    
 
 ### Spiritual Traditions
 
-- [[Dragonkind/Traditions/The Echoes of Scales]]
-    
+- [[The Echoes of Scales]]
 
 ### Related Topics
 
 - [[Wyrmreach]]
-    
+
 - [[The War of Dominion]]
-    
 
 ### Individual Regencies
 
 - [[Foundation]]
-    
+
 - [[Hearth]]
-    
+
 - [[Harvest]]
-    
+
 - [[Storms]]
-    
+
 - [[Depths]]
-    
+
 - [[Journey]]
-    
+
 - [[Dawn]]
-    
+
 - [[Growth]]
-    
+
 - [[Endurance]]
-    
+
 - [[Forgefire]]
-    
+
 - [[Crossroads]]
-    
+
 - [[Horizons]]
-    
+
 - [[Wilds]]

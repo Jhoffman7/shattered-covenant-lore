@@ -2,8 +2,14 @@
 tags:
   - lore
   - dragonkind
+  - echoes
+
 status: Canon
-type: Foundational Lore
+
+type: lore
+pillar: dragonkind
+
+knowledge: restricted
 ---
 # The Echoes of Scales
 
@@ -109,37 +115,11 @@ However, in moments of great significance, the Echoes may offer counsel, warning
 
 For this reason, no Regent truly stands alone.
 
-Every Regent carries generations within them. Because of this connection, newly ascended Regents are gradually introduced to truths that would otherwise remain hidden.
+Every Regent carries generations within them.
 
-The Echoes serve not only as advisors, but as guardians of knowledge entrusted to Dragonkind since the dawn of creation.
-
----
-## The Echoes and Hidden Truths
-
-Not all knowledge preserved within the Echoes is freely shared.
-
-Among Dragonkind, certain truths are considered too consequential to be entrusted to written records, public teachings, or ordinary tradition.
-
-Instead, they are preserved through carefully guarded chains of Echoes passed between generations of Regents and select members of the Conclave.
-
-These hidden truths include knowledge concerning the Reality Anchors, the responsibilities of the First Regents, and the dangers associated with [[The Cataclysm]].
-
-Most Dragons live their entire lives without learning such things.
-
-This is not considered deception.
-
-It is considered stewardship.
-
-The First Regents believed that some knowledge carries responsibilities that cannot be separated from wisdom and experience.
-
-For this reason, the deepest truths of Dragonkind are revealed only when circumstances demand them.
-
-Among Dragons, it is often said:
-
-> "Not every truth is meant for every season."
+The accumulated wisdom of previous bearers helps ensure continuity across the ages and allows each Regency to preserve the traditions and responsibilities entrusted to it.
 
 ---
-
 ## The Echo Chambers
 
 Throughout the Broodlands exist sacred places known as Echo Chambers.

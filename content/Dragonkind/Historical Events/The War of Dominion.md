@@ -3,8 +3,13 @@ tags:
   - lore
   - historical-event
   - dragonkind
+
 status: Canon
-type: Historical Event
+
+type: historical_event
+pillar: dragonkind
+
+knowledge: educated
 ---
 
 # The War of Dominion
@@ -84,6 +89,25 @@ What followed was not merely a political disagreement.
 It was a philosophical divide.
 
 ---
+## Unification of Dragonkind
+
+Though the War of Dominion is most often remembered for its impact on the relationship between Dragonkind and Heaven, many Dragons consider its greatest legacy to be the unification of Dragon civilization itself.
+
+Prior to the War of Dominion, Dragonkind possessed no unified institution through which all Broods could collectively act.
+
+The Elder Broods maintained relationships with one another and often cooperated when necessary, but each lineage remained largely responsible for its own affairs.
+
+Most Dragons identified first with their Brood and only secondarily with Dragonkind as a whole. The pressures of the conflict demonstrated that the Broods could no longer act solely as independent lineages when matters affecting all of Dragonkind were at stake.
+
+In response, the Elder Broods established the Conclave of Scales.
+
+For the first time in history, the Regents and representatives of the Broods possessed a unified institution through which they could coordinate, deliberate, and speak with a collective voice.
+
+For this reason, many historians regard the War of Dominion not only as a conflict with Heaven, but as the event that transformed the Elder Broods into a truly unified Dragon civilization.
+
+The newly formed Conclave eventually established its seat within Wyrmreach, creating a permanent gathering place through which the Elder Broods could coordinate while preserving their individual identities.
+
+---
 
 ## The Opening Conflict
 
@@ -142,7 +166,25 @@ Even apparent victories often came at unbearable cost.
 The war gradually transformed from a question of who could win into a question of what would remain afterward.
 
 ---
+## The Turning Point
 
+As the war continued, leaders on both sides began to recognize a troubling reality.
+
+Victory was becoming increasingly meaningless.
+
+Every battle inflicted wounds upon creation itself.
+
+Ancient knowledge vanished.
+
+Entire regions were scarred.
+
+Institutions that had endured for ages disappeared beneath the weight of the conflict.
+
+For the first time, serious voices within both Heaven and Dragonkind began asking whether victory remained worth its cost.
+
+Many historians regard this realization as the true beginning of the war's end.
+
+---
 ## The Cradle Question
 
 As the conflict escalated, many Dragons grew increasingly concerned about a possibility previously considered unthinkable.
@@ -226,11 +268,11 @@ The distinction remains central to Dragon philosophy even now.
 
 ### Dragonkind
 
-- [[Dragonkind/Dragonkind]]
+- [[Dragonkind]]
 - [[Crucible of Creation]]
 - [[The Conclave of Scales]]
 - [[The Cradle of Scales]]
-- [[Dragonkind/Traditions/The Echoes of Scales]]
+- [[The Echoes of Scales]]
 - [[Wyrmreach]]
 - [[The Thirteen Regencies]]
 

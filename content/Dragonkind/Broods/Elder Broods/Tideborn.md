@@ -499,7 +499,7 @@ Riftmaw:
 
 - [[Dragonkind/Dragonkind]]
 - [[The Broods]]
-- [[The Original Thirteen Broods]]
+- [[The Elder Broods]]
 
 ### Locations
 

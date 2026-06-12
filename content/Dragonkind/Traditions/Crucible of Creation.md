@@ -40,14 +40,34 @@ To Dragons, existence is not a finished work but an ongoing process through whic
 This process is the Crucible.
 
 ---
+## Origins
 
+Dragon traditions teach that the earliest foundations of the Crucible emerged during the age of the First Regents.
+
+In the beginning, the First Regents did not fully understand their purpose within creation or their relationship to one another.
+
+Their disagreements eventually escalated into the conflict later remembered as the Sundering Dawn, the First Recorded Near-Cataclysm.
+
+As the First Regents fought, creation itself began to suffer.
+
+The crisis ultimately ended when they recognized a truth that would shape Dragon civilization forever:
+
+Creation could not survive those who sought to possess it.
+
+It could only endure through stewardship.
+
+Many Dragons believe the lessons learned during the Sundering Dawn became the foundation upon which the Crucible was later built.
+
+Though the philosophy would continue to evolve over countless generations, its earliest roots are often traced to this realization.
+
+---
 ## The First Principle
 
 The most fundamental belief of the Crucible is simple:
 
 > Creation belongs to creation.
 
-This belief predates kingdoms, civilizations, and even many of the institutions that now govern the world.
+This belief traces its origins to the earliest lessons learned by the First Regents during the Sundering Dawn and predates kingdoms, civilizations, and even many of the institutions that now govern the world.
 
 Dragons believe that no power, regardless of its wisdom or strength, possesses the right to claim ownership over creation itself.
 
@@ -205,6 +225,12 @@ A river may be preserved without being commanded.
 
 A people may be guided without being ruled.
 
+Many Dragons view the Sundering Dawn as the clearest example of this distinction.
+
+The First Regents possessed more power than any Dragons who would follow them, yet nearly brought creation to ruin when they attempted to impose their individual visions upon it.
+
+The crisis is often cited as proof that wisdom and restraint must accompany power.
+
 Dragons believe that the moment stewardship becomes domination, it ceases to serve creation and instead serves the desires of the steward.
 
 For this reason, Dragonkind remains deeply suspicious of any power that seeks authority over creation itself.
@@ -266,11 +292,15 @@ Its purpose is to remind Dragons that creation is larger than any individual, Br
 
 ### Dragonkind
 
-- [[Dragonkind/Dragonkind]]
+- [[Dragonkind]]
 - [[The Thirteen Regencies]]
 - [[Wyrmreach]]
 - [[The War of Dominion]]
+- - [[The First Regents]]
+### Historical Events
 
+- [[The Sundering Dawn]]
+- [[The War of Dominion]]
 ### Cosmology
 
 - [[The Great Divide]]

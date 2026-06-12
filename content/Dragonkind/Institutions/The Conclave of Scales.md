@@ -3,8 +3,13 @@ tags:
   - lore
   - organization
   - dragonkind
+
 status: Canon
-type: Foundational Lore
+
+type: hub
+pillar: dragonkind
+
+knowledge: common
 ---
 # The Conclave of Scales
 
@@ -30,7 +35,7 @@ The protection of the Cradle of Scales.
 
 The succession of Regencies.
 
-The defense of creation itself.
+The preservation of Dragonkind's future.
 
 These responsibilities belong to the Scalebound.
 
@@ -57,26 +62,6 @@ The Conclave does not exist to command.
 It exists to endure.
 
 ---
-## The Hidden Stewardship
-
-While most Dragons understand the public responsibilities of the Conclave, a second duty exists that is rarely discussed outside the highest circles of Dragonkind.
-
-Since the age of the First Regents, select members of the Conclave have been entrusted with knowledge concerning the Reality Anchors and the role Dragonkind serves within creation.
-
-The Conclave safeguards these truths alongside the Echoes of Scale.
-
-This knowledge is not hidden out of secrecy or privilege.
-
-It is preserved because the First Regents believed certain truths carry responsibilities that cannot be separated from wisdom and experience.
-
-For this reason, most Dragons never learn the full nature of the Reality Anchors, the dangers of [[The Cataclysm]], or the deeper responsibilities carried by Dragonkind.
-
-Such revelations are reserved for those whose duties require them.
-
-Among the Scalebound, this responsibility is known simply as Stewardship.
-
----
-
 ## The Twenty-Six Seats
 
 The Scalebound is composed of twenty-six permanent seats.
@@ -224,24 +209,6 @@ The mantle must accept its bearer.
 No Dragon may claim a Regency through force, inheritance, or political influence.
 
 ---
-## The Revelation of Truth
-
-Not every Regent immediately inherits the deepest knowledge preserved by Dragonkind.
-
-While the mantle grants access to the Echoes of former bearers, understanding often arrives gradually.
-
-New Regents are expected to grow into their responsibilities before being entrusted with certain truths.
-
-The Conclave, the Echoes, and the Regencies themselves all play a role in this process.
-
-For some, revelation comes quickly.
-
-For others, it may take decades or even centuries.
-
-Among Dragons, wisdom is considered a prerequisite for knowledge, not the other way around.
-
----
-
 ## Relationship to the Crucible of Creation
 
 The Conclave exists to uphold the principles of the [[Crucible of Creation]].

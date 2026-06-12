@@ -3,8 +3,13 @@ tags:
   - location
   - dragonkind
   - lore
+
 status: Canon
-type: Region
+
+type: location
+pillar: dragonkind
+
+knowledge: educated
 ---
 
 # The Wyrmreach
@@ -42,29 +47,6 @@ Many believe the realm preserves echoes of reality as it existed in its infancy.
 Whether this belief reflects literal truth or ancient cultural memory remains uncertain.
 
 What is certain is that the Wyrmreach is unlike any other place in existence.
-
----
-## The First Sanctuary
-
-Among the oldest traditions preserved by Dragonkind is the belief that the Wyrmreach was the first region of reality to fully stabilize after creation came into being.
-
-According to these traditions, while much of the newborn cosmos remained turbulent and unfinished, the Wyrmreach became the first true sanctuary of creation.
-
-It was here that the Cradle of Scales formed.
-
-It was here that the First Thirteen emerged.
-
-And it was here that the Reality Anchors first established themselves within the world.
-
-For this reason, many Dragons believe the Wyrmreach is more than their ancestral homeland.
-
-It is the place where creation first learned how to endure.
-
-Whether this belief represents literal history or sacred symbolism remains a matter of debate.
-
-Among Dragons, however, the distinction is often considered unimportant.
-
-The meaning remains the same.
 
 ---
 
@@ -109,12 +91,6 @@ Though the Broods often differ in philosophy and temperament, all recognize one 
 The Broods are independent.
 
 They are not isolated.
-
-Though often described as lineages, the Original Thirteen Broods hold a significance beyond ancestry alone.
-
-According to the oldest traditions, they serve as the living Reality Anchors through which creation maintains many of its foundational systems.
-
-For this reason, the health of the Broods has long been regarded as a matter of concern not only for Dragonkind, but for reality itself.
 
 ---
 
@@ -239,13 +215,13 @@ Many mortals live and die without ever witnessing a Dragon firsthand.
 Among Dragons, it is often said that every journey eventually leads back to the Elder Wilds.
 
 ---
-## The Unmapped Wilds
+## The Deep Wilds
 
 Although the territories of the Broods are well known, they comprise only a portion of the Wyrmreach.
 
 Vast regions remain unexplored even by Dragon standards.
 
-These lands are collectively known as the Elder Wilds.
+These lands are collectively known as The Deep Wilds.
 
 Some contain landscapes untouched since the dawn of creation.
 
@@ -257,7 +233,7 @@ Some never return.
 
 Those who do rarely return unchanged.
 
-Among Dragonkind, the existence of the Elder Wilds serves as a reminder that creation still contains mysteries beyond even draconic understanding.
+Among Dragonkind, the existence of The Deep Wilds serves as a reminder that creation still contains mysteries beyond even draconic understanding.
 
 ---
 
